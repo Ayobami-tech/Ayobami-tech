@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayobami-tech
-- 👀 I’m interested in building scalable web applications and driving online success for website owners.
+- 👀 I’m interested in full stack development and digital marketing. success for website owners.
 - 🌱I’m currently learning advanced JavaScript frameworks and SEO strategies.
 - 💞️ I’m looking to collaborate on full stack web projects and digital marketing campaigns.
 - 📫 How to reach me mail: @abdulhammedibrahim32@gmail.com
